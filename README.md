@@ -1,3 +1,12 @@
+Here I have created a frontend view using React for my CRUD application.<br>
+![Screenshot 2024-03-23 170053](https://github.com/Shaishav23/react-frontend/assets/66006866/7fa57517-1f54-4da5-b280-64d1671b8342) <br>
+
+![Screenshot 2024-03-23 170111](https://github.com/Shaishav23/react-frontend/assets/66006866/092bf891-e429-4f38-a1b2-dfdf17b08c56) <br>
+
+![Screenshot 2024-03-23 170230](https://github.com/Shaishav23/react-frontend/assets/66006866/370d22c0-f51d-476f-b14c-86a547174e75) <br>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
