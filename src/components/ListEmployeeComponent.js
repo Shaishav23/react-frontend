@@ -32,7 +32,7 @@ const ListEmployeeComponent = () => {
   };
 
   return (
-    <div className="container table-responsive-md table-respinsive-sm">
+    <div className="container table-responsive-md table-responsive-sm">
       <h2 className="text-center"> Employees List</h2>
       <Link to="/add-employee" className="btn btn-primary mb-2">
         Add employee
